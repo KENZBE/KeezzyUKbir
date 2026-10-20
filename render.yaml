@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: frankfurtweed
+    name: Birminghamweed
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
